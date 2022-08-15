@@ -10,8 +10,11 @@ namespace DataStructureProblem
     {
         public static void Main(string[] args)
         {
-            BubbleSort bubbleSort = new BubbleSort();
-            bubbleSort.Sorting();
+            //BubbleSort bubbleSort = new BubbleSort();
+            //bubbleSort.Sorting();
+
+            Anagram anagram = new Anagram();
+            anagram.checkAnagram();
         }
     }
 }
