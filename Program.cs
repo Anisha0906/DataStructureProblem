@@ -18,8 +18,11 @@ namespace DataStructureProblem
             //InsertionSort insertionSort = new InsertionSort();
             //insertionSort.CheckSorting();
 
-            MergeSort mergeSort = new MergeSort();
-            mergeSort.checkMergeSort();
+            //MergeSort mergeSort = new MergeSort();
+            //mergeSort.checkMergeSort();
+
+            PrimeNumber primenumber = new PrimeNumber();
+            primenumber.PrimeNum();
 
         }
     }
