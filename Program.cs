@@ -15,8 +15,11 @@ namespace DataStructureProblem
 
             //Anagram anagram = new Anagram();
             //anagram.checkAnagram();
-            InsertionSort insertionSort = new InsertionSort();
-            insertionSort.CheckSorting();
+            //InsertionSort insertionSort = new InsertionSort();
+            //insertionSort.CheckSorting();
+
+            MergeSort mergeSort = new MergeSort();
+            mergeSort.checkMergeSort();
 
         }
     }
