@@ -13,8 +13,11 @@ namespace DataStructureProblem
             //BubbleSort bubbleSort = new BubbleSort();
             //bubbleSort.Sorting();
 
-            Anagram anagram = new Anagram();
-            anagram.checkAnagram();
+            //Anagram anagram = new Anagram();
+            //anagram.checkAnagram();
+            InsertionSort insertionSort = new InsertionSort();
+            insertionSort.CheckSorting();
+
         }
     }
 }
